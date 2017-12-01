@@ -1,12 +1,10 @@
 def my_hash
-hash = {"name" => "Jon", "age" => 27}
-
+  hash = {"name" => "Jon", "age" => 27}
 end
 
 
+def shipping_manifest
   shipping_manifest = {"whale bone corsets" => 5, "porcelain vases" => 2, "oil paintings" => 3}
-  def shipping_manifest
-
 end
 
 def retrieval
